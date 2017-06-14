@@ -1,8 +1,0 @@
-class deneme{
-
-public void oku(){
-  String a=1+2;
-}
-
-
-}
